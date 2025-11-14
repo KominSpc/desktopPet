@@ -1,0 +1,2 @@
+qss用于存放样式
+qt_main_panel_qt5.py用于存放设置面板及其操作数据

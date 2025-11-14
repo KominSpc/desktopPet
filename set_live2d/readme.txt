@@ -1,0 +1,4 @@
+此文件夹内用于放置qt可视化操作ui对应的脚本
+qt_main_panel.py=>控制面板ui对应脚本
+qt_pet_set.py=>放置live2d和opengl可视化处理脚本
+resources.py=>用于live2d素材路径设置

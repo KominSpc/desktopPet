@@ -1,0 +1,31 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "跳蚤.moc3",
+		"Textures": [
+			"跳蚤.4096/texture_00.png"
+		],
+		"Physics": "跳蚤.physics3.json",
+		"DisplayInfo": "跳蚤.cdi3.json",
+		"Motions": {
+			"": [
+				{
+					"File": "飞.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

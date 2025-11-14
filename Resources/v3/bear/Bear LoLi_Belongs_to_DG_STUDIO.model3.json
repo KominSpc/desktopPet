@@ -1,0 +1,27 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Bear LoLi_Belongs_to_DG_STUDIO.moc3",
+		"Textures": [
+			"Bear LoLi_Belongs_to_DG_STUDIO.16384/texture_00.png",
+			"Bear LoLi_Belongs_to_DG_STUDIO.16384/texture_01.png"
+		],
+		"Physics": "Bear LoLi_Belongs_to_DG_STUDIO.physics3.json",
+		"DisplayInfo": "Bear LoLi_Belongs_to_DG_STUDIO.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+}

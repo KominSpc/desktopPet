@@ -1,0 +1,37 @@
+{
+    "live2d_model_settings": {
+        "live2d_folder_settings": {
+            "folder_path": ""
+        },
+        "live2d_parameter_settings": {
+            "parameter": "Param68",
+            "size": "1"
+        },
+        "live2d_name_settings": {
+            "name": "跳蚤"
+        }
+    },
+    "llm_model_settings": {
+        "apikey_settings": {
+            "api_key": "sk-4ba18ef58f934346a41669550eef0ea2"
+        },
+        "apiurl_settings": {
+            "api_url": "https://api.deepseek.com/v1"
+        },
+        "apikey_vision_settings": {
+            "apikey_vision": "sk-3ed25d21b58e4c4f8dd84753c0b766b8"
+        },
+        "apiurl_vision_settings": {
+            "apiurl_vision": "https://dashscope.aliyuncs.com/compatible-mode/v1"
+        }
+    },
+    "operation_settings": {
+        "window_size": "中",
+        "window_size_width": 300,
+        "window_size_height": 400,
+        "voice_input_enabled": true,
+        "voice_shortcut": "alt",
+        "clipboard_hint_enabled": true,
+        "screen_shot_enabled": false
+    }
+}
